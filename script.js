@@ -133,8 +133,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Set static name and bio text
   function setStaticContent() {
-    profileName.textContent = "AIMLESS";
-    profileBio.textContent = 'Chuck Schuldiner says "Fuck CANCER"';
+    profileName.textContent = "Qvexxy";
+    profileBio.textContent = 'Anime enjoyer';
   }
 
   // Enhanced start screen click handler
@@ -467,3 +467,4 @@ document.addEventListener('DOMContentLoaded', () => {
   // Start the typewriter for start screen
   typeWriterStart();
 });
+
